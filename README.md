@@ -1,3 +1,3 @@
-# awesome list
+# awesome
 
 - [lazygit](https://github.com/jesseduffield/lazygit)
