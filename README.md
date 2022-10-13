@@ -10,7 +10,7 @@
 - [Hoppscotch (Open source API development ecosystem 👽)](https://hoppscotch.io)
 
 ## Command Line
-- [lazygit (simple terminal UI for git commands)](https://github.com/jesseduffield/lazygit)
+- [lazygit (Simple terminal UI for git commands)](https://github.com/jesseduffield/lazygit)
 - [npm-check-updates (Find newer versions of package dependencies)](https://github.com/raineorshine/npm-check-updates)
 
 ## Scripts
