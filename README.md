@@ -1,10 +1,17 @@
-# awesome
+# Awesome
 
-- [Vue](https://vuejs.org) 
-- [Nuxt](https://nuxtjs.org)
-- [husky](https://github.com/typicode/husky)
-- [pretty-quick](https://github.com/azz/pretty-quick)
-- [lazygit](https://github.com/jesseduffield/lazygit)
-- [npm-check-updates](https://github.com/raineorshine/npm-check-updates)
-- [zx](https://github.com/google/zx)
-- [Hoppscotch](https://hoppscotch.io)
+## Frameworks
+- [Vue (The Progressive JavaScript Framework)](https://vuejs.org)
+- [Nuxt (The Intuitive Vue Framework)](https://nuxtjs.org)
+
+## Tools
+- [husky (Git hooks made easy 🐶)](https://github.com/typicode/husky)
+- [pretty-quick (Runs Prettier on your changed files ⚡)](https://github.com/azz/pretty-quick)
+- [Hoppscotch (Open source API development ecosystem 👽)](https://hoppscotch.io)
+
+## Command Line
+- [lazygit (simple terminal UI for git commands)](https://github.com/jesseduffield/lazygit)
+- [npm-check-updates (Find newer versions of package dependencies)](https://github.com/raineorshine/npm-check-updates)
+
+## Scripts
+- [zx (A tool for writing better scripts)](https://github.com/google/zx)
