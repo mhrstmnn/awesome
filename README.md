@@ -5,13 +5,13 @@
 - [Nuxt (The Intuitive Vue Framework)](https://nuxtjs.org)
 
 ## Tools
-- [husky (Git hooks made easy 🐶)](https://github.com/typicode/husky)
-- [pretty-quick (Runs Prettier on your changed files ⚡)](https://github.com/azz/pretty-quick)
+- [`husky` (Git hooks made easy 🐶)](https://github.com/typicode/husky)
+- [`pretty-quick` (Runs Prettier on your changed files ⚡)](https://github.com/azz/pretty-quick)
 - [Hoppscotch (Open source API development ecosystem 👽)](https://hoppscotch.io)
 
 ## Command Line
-- [lazygit (Simple terminal UI for git commands)](https://github.com/jesseduffield/lazygit)
-- [npm-check-updates (Find newer versions of package dependencies)](https://github.com/raineorshine/npm-check-updates)
+- [`lazygit` (Simple terminal UI for git commands)](https://github.com/jesseduffield/lazygit)
+- [`npm-check-updates` (Find newer versions of package dependencies)](https://github.com/raineorshine/npm-check-updates)
 
 ## Scripts
-- [zx (A tool for writing better scripts)](https://github.com/google/zx)
+- [`zx` (A tool for writing better scripts)](https://github.com/google/zx)
