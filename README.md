@@ -18,3 +18,4 @@
 
 ## Learn
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex/blob/master/translations/README-de.md)
+- [`grex` (Generate regular expressions from test cases)](https://pemistahl.github.io/grex-js/)
