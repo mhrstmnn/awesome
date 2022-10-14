@@ -22,7 +22,7 @@
 - [`qnm` (Utility for querying the `node_modules` directory 🔍)](https://github.com/ranyitz/qnm)
 - [`wormhole` (Get things from one computer to another, safely)](https://github.com/magic-wormhole/magic-wormhole)
 - [`qrcp` (Transfer files over wifi by scanning a QR code ⚡)](https://github.com/claudiodangelis/qrcp)
-- [`localtunnel` (Exposes your `localhost` to the world 🌍)](https://github.com/localtunnel/localtunnel)
+- [`lt` (Exposes your `localhost` to the world 🌍)](https://github.com/localtunnel/localtunnel)
 
 ## Scripts
 - [`zx` (A tool for writing better scripts)](https://github.com/google/zx)
