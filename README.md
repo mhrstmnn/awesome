@@ -10,8 +10,10 @@
 - [Hoppscotch (Open source API development ecosystem 👽)](https://hoppscotch.io)
 
 ## Command Line
+- [`tmux` (A terminal multiplexer)](https://github.com/tmux/tmux/wiki)
 - [`bat` (A `cat` clone with wings 🦇)](https://github.com/sharkdp/bat)
 - [`fd` (A simple, fast and user-friendly alternative to `find`)](https://github.com/sharkdp/fd)
+- [`pdfgrep` (A commandline utility to search text in PDF files)](https://pdfgrep.org)
 - [`lazygit` (Simple terminal UI for `git` commands)](https://github.com/jesseduffield/lazygit)
 - [`wormhole` (Get things from one computer to another, safely)](https://github.com/magic-wormhole/magic-wormhole)
 - [`localtunnel` (Exposes your `localhost` to the world 🌍)](https://github.com/localtunnel/localtunnel)
