@@ -1,4 +1,4 @@
-# Awesome
+# Awesome stuff
 
 ## Frameworks
 - [Vue (The Progressive JavaScript Framework)](https://vuejs.org)
@@ -10,10 +10,14 @@
 - [Hoppscotch (Open source API development ecosystem 👽)](https://hoppscotch.io)
 
 ## Command Line
+- [`bat` (A `cat` clone with wings 🦇)](https://github.com/sharkdp/bat)
+- [`fd` (A simple, fast and user-friendly alternative to `find`)](https://github.com/sharkdp/fd)
+- [`lazygit` (Simple terminal UI for `git` commands)](https://github.com/jesseduffield/lazygit)
+- [`wormhole` (Get things from one computer to another, safely)](https://github.com/magic-wormhole/magic-wormhole)
+- [`localtunnel` (Exposes your `localhost` to the world 🌍)](https://github.com/localtunnel/localtunnel)
 - [`tldr-pages` (Collaborative cheatsheets for console commands 📚)](https://github.com/tldr-pages/tldr)
-- [`lazygit` (Simple terminal UI for git commands)](https://github.com/jesseduffield/lazygit)
 - [`npm-check-updates` (Find newer versions of package dependencies)](https://github.com/raineorshine/npm-check-updates)
-- [`qnm` (Utility for querying the node_modules directory 🔍)](https://github.com/ranyitz/qnm)
+- [`qnm` (Utility for querying the `node_modules` directory 🔍)](https://github.com/ranyitz/qnm)
 
 ## Scripts
 - [`zx` (A tool for writing better scripts)](https://github.com/google/zx)
