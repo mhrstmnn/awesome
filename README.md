@@ -10,8 +10,10 @@
 - [Hoppscotch (Open source API development ecosystem 👽)](https://hoppscotch.io)
 
 ## Command Line
+- [`tldr-pages` (Collaborative cheatsheets for console commands 📚)](https://github.com/tldr-pages/tldr)
 - [`lazygit` (Simple terminal UI for git commands)](https://github.com/jesseduffield/lazygit)
 - [`npm-check-updates` (Find newer versions of package dependencies)](https://github.com/raineorshine/npm-check-updates)
+- [`qnm` (Utility for querying the node_modules directory 🔍)](https://github.com/ranyitz/qnm)
 
 ## Scripts
 - [`zx` (A tool for writing better scripts)](https://github.com/google/zx)
