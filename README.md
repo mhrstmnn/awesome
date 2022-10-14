@@ -7,7 +7,7 @@
 ## Tools
 - [`husky` (`git` hooks made easy 🐶)](https://github.com/typicode/husky)
 - [`pretty-quick` (Runs `prettier` on your changed files ⚡)](https://github.com/azz/pretty-quick)
-- [Hoppscotch (Open source API development ecosystem 👽)](https://hoppscotch.io)
+- [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
 
 ## Command Line
 - [`tmux` (A terminal multiplexer)](https://github.com/tmux/tmux/wiki)
@@ -29,8 +29,8 @@
 
 ## Learn
 - [`tldr` (Collaborative cheatsheets for console commands 📚)](https://github.com/tldr-pages/tldr)
-- [ExplainShell (Match command-line arguments to their help text)](https://explainshell.com)
-- [ShellCheck (A shell script static analysis tool)](https://www.shellcheck.net)
+- [**ExplainShell** (Match command-line arguments to their help text)](https://explainshell.com)
+- [**ShellCheck** (A shell script static analysis tool)](https://www.shellcheck.net)
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex/blob/master/translations/README-de.md)
 - [`grex` (Generate regular expressions from test cases)](https://pemistahl.github.io/grex-js/)
-- [crontab guru (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
+- [`crontab` guru (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
