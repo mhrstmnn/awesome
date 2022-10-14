@@ -1,8 +1,8 @@
 # Awesome stuff
 
 ## Frameworks
-- [Vue (The Progressive JavaScript Framework)](https://vuejs.org)
-- [Nuxt (The Intuitive Vue Framework)](https://nuxtjs.org)
+- [**Vue** (The Progressive JavaScript Framework)](https://vuejs.org)
+- [**Nuxt** (The Intuitive Vue Framework)](https://nuxtjs.org)
 
 ## Tools
 - [`husky` (`git` hooks made easy 🐶)](https://github.com/typicode/husky)
@@ -34,3 +34,6 @@
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex/blob/master/translations/README-de.md)
 - [`grex` (Generate regular expressions from test cases)](https://pemistahl.github.io/grex-js/)
 - [`crontab` guru (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
+- [**Learn Anything** (Organize world's knowledge, explore connections and curate learning paths)](https://learn-anything.xyz)
+- [**TIPP10** (Kostenloser 10-Finger-Schreibtrainer)](https://www.tipp10.com/de/)
+- [**Duolingo** (Effektiv und kostenlos eine Sprache lernen)](https://www.duolingo.com)
