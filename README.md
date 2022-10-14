@@ -33,3 +33,4 @@
 - [ShellCheck (A shell script static analysis tool)](https://www.shellcheck.net)
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex/blob/master/translations/README-de.md)
 - [`grex` (Generate regular expressions from test cases)](https://pemistahl.github.io/grex-js/)
+- [crontab guru (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
