@@ -7,6 +7,7 @@
 ## Tools
 - [`husky` (`git` hooks made easy 🐶)](https://github.com/typicode/husky)
 - [`pretty-quick` (Runs `prettier` on your changed files ⚡)](https://github.com/azz/pretty-quick)
+- [`npm-run-all` (Run multiple npm-scripts in parallel or sequential)](https://github.com/mysticatea/npm-run-all)
 - [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
 
 ## Command Line
