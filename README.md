@@ -1,4 +1,4 @@
-# Awesome stuff
+# Awesome Stuff
 
 ## Frameworks
 - [**Vue** (The Progressive JavaScript Framework)](https://vuejs.org)
