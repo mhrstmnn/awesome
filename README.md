@@ -29,6 +29,8 @@
 ## Frameworks
 - [**Vue** (The Progressive JavaScript Framework)](https://vuejs.org)
 - [**Nuxt** (The Intuitive Vue Framework)](https://nuxtjs.org)
+- [**Tailwind** (A utility-first CSS framework)](https://tailwindcss.com)
+- [**Windi** (Next generation utility-first CSS framework)](https://windicss.org)
 
 ## Websites
 - [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
