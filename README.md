@@ -8,7 +8,10 @@
 - [`husky` (`git` hooks made easy 🐶)](https://github.com/typicode/husky)
 - [`pretty-quick` (Runs `prettier` on your changed files ⚡)](https://github.com/azz/pretty-quick)
 - [`npm-run-all` (Run multiple npm-scripts in parallel or sequential)](https://github.com/mysticatea/npm-run-all)
+
+## Websites
 - [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
+- [**Programming Fonts** (Test drive programming fonts online in your browser)](https://www.programmingfonts.org)
 
 ## Command Line
 - [`tmux` (A terminal multiplexer)](https://github.com/tmux/tmux/wiki)
@@ -28,15 +31,13 @@
 
 ## Scripts
 - [`zx` (A tool for writing better scripts)](https://github.com/google/zx)
+- [`shellcheck` (A shell script static analysis tool)](https://www.shellcheck.net)
 
 ## Learn
 - [`tldr` (Collaborative cheatsheets for console commands 📚)](https://github.com/tldr-pages/tldr)
 - [**ExplainShell** (Match command-line arguments to their help text)](https://explainshell.com)
-- [**ShellCheck** (A shell script static analysis tool)](https://www.shellcheck.net)
 - [`crontab` guru (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
 - [Learn **regex** the easy way](https://github.com/ziishaned/learn-regex/blob/master/README.md)
-- [`grex` (Generate regular expressions from test cases)](https://pemistahl.github.io/grex-js/)
-- [Learn **Lua** in 15 Minutes](https://tylerneylon.com/a/learn-lua/)
 - [**Learn Anything** (Organize world's knowledge, explore connections and curate learning paths)](https://learn-anything.xyz)
 - [**TIPP10** (Free touch typing tutor)](https://www.tipp10.com)
 - [**Duolingo** (Free, fun, and effective way to learn a language)](https://www.duolingo.com)
