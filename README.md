@@ -36,8 +36,8 @@
 
 ## Websites
 - [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
-- [**ShellCheck** (A static analysis tool for shell scripts)](https://www.shellcheck.net)
 - [**ExplainShell** (Match command-line arguments to their help text)](https://explainshell.com)
+- [**ShellCheck** (A static analysis tool for shell scripts)](https://www.shellcheck.net)
 - [**Crontab Guru** (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
 - [**Programming Fonts** (Test drive programming fonts online in your browser)](https://www.programmingfonts.org)
 
