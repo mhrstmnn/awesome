@@ -29,13 +29,15 @@
 ## Frameworks
 - [**Vue** (The Progressive JavaScript Framework)](https://vuejs.org)
 - [**Nuxt** (The Intuitive Vue Framework)](https://nuxtjs.org)
+- [**Express** (Fast, unopinionated, minimalist web framework for Node.js)](https://expressjs.com)
+- [**Laravel** (A web application framework with expressive, elegant syntax)](https://laravel.com)
 - [**Tailwind** (A utility-first CSS framework)](https://tailwindcss.com)
 - [**Windi** (Next generation utility-first CSS framework)](https://windicss.org)
 
 ## Websites
 - [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
 - [**ExplainShell** (Match command-line arguments to their help text)](https://explainshell.com)
-- [**crontab guru** (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
+- [**Crontab Guru** (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
 - [**Programming Fonts** (Test drive programming fonts online in your browser)](https://www.programmingfonts.org)
 
 ## Learn
