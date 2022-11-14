@@ -29,6 +29,8 @@
 ## Frameworks
 - [**Vue** (The Progressive JavaScript Framework)](https://vuejs.org)
 - [**Nuxt** (The Intuitive Vue Framework)](https://nuxtjs.org)
+- [**React** (A JavaScript library for building user interfaces)](https://reactjs.org)
+- [**Next** (The React Framework)](https://nextjs.org)
 - [**Express** (Fast, unopinionated, minimalist web framework for Node.js)](https://expressjs.com)
 - [**Laravel** (A web application framework with expressive, elegant syntax)](https://laravel.com)
 - [**Tailwind** (A utility-first CSS framework)](https://tailwindcss.com)
