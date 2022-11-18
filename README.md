@@ -1,4 +1,4 @@
-# Awesome Stuff
+# Awesome stuff
 
 ## Command Line
 - [`tldr` (Collaborative cheatsheets for console commands 📚)](https://github.com/tldr-pages/tldr)
