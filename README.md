@@ -1,6 +1,6 @@
 # Awesome stuff
 
-## Command Line
+## Command-line
 - [`tldr` (Collaborative cheatsheets for console commands 📚)](https://github.com/tldr-pages/tldr)
 - [`tmux` (A terminal multiplexer)](https://github.com/tmux/tmux/wiki)
 - [`nvim` (Vim-fork focused on extensibility and usability)](https://neovim.io)
