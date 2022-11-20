@@ -67,7 +67,7 @@
 - [**ExplainShell** (Match command-line arguments to their help text)](https://explainshell.com)
 - [**ShellCheck** (A static analysis tool for shell scripts)](https://www.shellcheck.net)
 - [**Crontab Guru** (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
-- [**ShareDrop** (Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop)](https://www.sharedrop.io)
+- [**ShareDrop** (Easy P2P file transfer powered by WebRTC and inspired by Apple's AirDrop)](https://www.sharedrop.io)
 - [**Wormhole** (Simple, private file sharing)](https://wormhole.app)
 - [**Excalidraw** (Virtual whiteboard for sketching hand-drawn like diagrams)](https://excalidraw.com)
 - [**Squoosh** (Make images smaller using best-in-class codecs, right in the browser)](https://squoosh.app)
@@ -77,6 +77,6 @@
 ## Learn
 
 - [**Learn Anything** (Organize world's knowledge, explore connections and curate learning paths)](https://learn-anything.xyz)
-- [**Learn regex** the easy way](https://github.com/ziishaned/learn-regex/blob/master/README.md)
+- [**Regex** (Learn regex the easy way)](https://github.com/ziishaned/learn-regex/blob/master/README.md)
 - [**TIPP10** (Free touch typing tutor)](https://www.tipp10.com)
 - [**Duolingo** (Free, fun, and effective way to learn a language)](https://www.duolingo.com)
