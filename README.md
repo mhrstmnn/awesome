@@ -17,7 +17,7 @@
 - [`bat` (A `cat` clone with wings 🦇)](https://github.com/sharkdp/bat)
 - [`fd` (A simple, fast and user-friendly alternative to `find`)](https://github.com/sharkdp/fd)
 - [`fzf` (A command-line fuzzy finder 🌸)](https://github.com/junegunn/fzf)
-- [`rg` (Searches for a regex pattern while respecting your `gitignore`)](https://github.com/BurntSushi/ripgrep)
+- [`rg` (Searches for a regex pattern while respecting your `.gitignore`)](https://github.com/BurntSushi/ripgrep)
 - [`pdfgrep` (A commandline utility to search text in PDF files)](https://pdfgrep.org)
 - [`ncu` (Find newer versions of package dependencies)](https://github.com/raineorshine/npm-check-updates)
 - [`qnm` (Utility for querying the `node_modules` directory 🔍)](https://github.com/ranyitz/qnm)
