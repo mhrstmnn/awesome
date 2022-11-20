@@ -1,6 +1,7 @@
 # Awesome stuff
 
 ## Command-line
+
 - [`tmux` (A terminal multiplexer)](https://github.com/tmux/tmux/wiki)
 - [`nvim` (Vim-fork focused on extensibility and usability)](https://neovim.io)
 - [`ranger` (A Vim-inspired filemanager for the console)](https://ranger.github.io)
@@ -17,6 +18,7 @@
 - [`lt` (Exposes your `localhost` to the world 🌍)](https://github.com/localtunnel/localtunnel)
 
 ## Shell
+
 - [**Zsh** (A shell designed for interactive use, although it is also a powerful scripting language)](https://www.zsh.org)
 - [**Oh My Zsh** (A delightful, open source, community-driven framework for managing your Zsh configuration)](https://ohmyz.sh)
 - [**Powerlevel10k** (A Zsh theme)](https://github.com/romkatv/powerlevel10k)
@@ -27,12 +29,14 @@
 - [`zx` (A tool for writing better scripts)](https://github.com/google/zx)
 
 ## Tools
+
 - [`husky` (`git` hooks made easy 🐶)](https://github.com/typicode/husky)
 - [`pretty-quick` (Runs `prettier` on your changed files ⚡)](https://github.com/azz/pretty-quick)
 - [`npm-run-all` (Run multiple npm-scripts in parallel or sequential)](https://github.com/mysticatea/npm-run-all)
 - [`.gitignore` (A collection of useful `.gitignore` templates)](https://github.com/github/gitignore)
 
 ## Frameworks
+
 - [**Vue** (The Progressive JavaScript Framework)](https://vuejs.org)
 - [**Nuxt** (The Intuitive Vue Framework)](https://nuxtjs.org)
 - [**Nuxt Content** (Content made easy for Vue Developers)](https://content.nuxtjs.org)
@@ -44,6 +48,7 @@
 - [**Windi** (Next generation utility-first CSS framework)](https://windicss.org)
 
 ## Websites
+
 - [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
 - [**tldr** (A reactive web client for `tldr` 📚)](https://tldr.ostera.io)
 - [**cheat.sh** (The only cheat sheet you need)](https://cheat.sh)
@@ -54,6 +59,7 @@
 - [**wttr.in** (The right way to check the weather ⛅)](https://wttr.in)
 
 ## Learn
+
 - [**Learn Anything** (Organize world's knowledge, explore connections and curate learning paths)](https://learn-anything.xyz)
 - [Learn **regex** the easy way](https://github.com/ziishaned/learn-regex/blob/master/README.md)
 - [**TIPP10** (Free touch typing tutor)](https://www.tipp10.com)
