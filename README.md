@@ -1,7 +1,15 @@
 # Awesome stuff
 
+- [**Command-line**](#command-line)
+- [**Shell**](#shell)
+- [**Tools**](#tools)
+- [**Frameworks**](#frameworks)
+- [**Websites**](#websites)
+- [**Learn**](#learn)
+
 ## Command-line
 
+- [`tldr` (Collaborative cheatsheets for console commands 📚)](https://github.com/tldr-pages/tldr)
 - [`tmux` (A terminal multiplexer)](https://github.com/tmux/tmux/wiki)
 - [`nvim` (Vim-fork focused on extensibility and usability)](https://neovim.io)
 - [`ranger` (A Vim-inspired filemanager for the console)](https://ranger.github.io)
@@ -23,17 +31,17 @@
 - [**Oh My Zsh** (A delightful, open source, community-driven framework for managing your Zsh configuration)](https://ohmyz.sh)
 - [**Powerlevel10k** (A Zsh theme)](https://github.com/romkatv/powerlevel10k)
 - [**Spaceship** (Minimalistic, powerful and extremely customizable Zsh prompt 🚀⭐)](https://spaceship-prompt.sh)
-- [`tldr` (Collaborative cheatsheets for console commands 📚)](https://github.com/tldr-pages/tldr)
 - [`shellcheck` (A static analysis tool for shell scripts)](https://github.com/koalaman/shellcheck)
 - [`shfmt` (A shell parser, formatter, and interpreter)](https://github.com/mvdan/sh)
 - [`zx` (A tool for writing better scripts)](https://github.com/google/zx)
 
 ## Tools
 
+- [`.gitignore` (A collection of useful `.gitignore` templates)](https://github.com/github/gitignore)
 - [`husky` (`git` hooks made easy 🐶)](https://github.com/typicode/husky)
+- [`prettier` (An opinionated code formatter)](https://prettier.io)
 - [`pretty-quick` (Runs `prettier` on your changed files ⚡)](https://github.com/azz/pretty-quick)
 - [`npm-run-all` (Run multiple npm-scripts in parallel or sequential)](https://github.com/mysticatea/npm-run-all)
-- [`.gitignore` (A collection of useful `.gitignore` templates)](https://github.com/github/gitignore)
 
 ## Frameworks
 
@@ -49,16 +57,16 @@
 
 ## Websites
 
+- [**Programming Fonts** (Test drive programming fonts online in your browser)](https://www.programmingfonts.org)
+- [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
+- [**DevDocs** API Documentation (Fast and offline documentation browser for developers)](https://devdocs.io)
+- [**pkgs.org** (Packages for Linux and Unix)](https://pkgs.org)
 - [**tldr** (A reactive web client for `tldr` 📚)](https://tldr.ostera.io)
 - [**cheat.sh** (The only cheat sheet you need)](https://cheat.sh)
 - [**wttr.in** (The right way to check the weather ⛅)](https://wttr.in)
 - [**ExplainShell** (Match command-line arguments to their help text)](https://explainshell.com)
 - [**ShellCheck** (A static analysis tool for shell scripts)](https://www.shellcheck.net)
 - [**Crontab Guru** (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
-- [**Programming Fonts** (Test drive programming fonts online in your browser)](https://www.programmingfonts.org)
-- [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
-- [**DevDocs** API Documentation](https://devdocs.io)
-- [**pkgs.org** (Packages for Linux and Unix)](https://pkgs.org)
 - [**ShareDrop** (Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop)](https://www.sharedrop.io)
 - [**Wormhole** (Simple, private file sharing)](https://wormhole.app)
 - [**Excalidraw** (Virtual whiteboard for sketching hand-drawn like diagrams)](https://excalidraw.com)
@@ -69,6 +77,6 @@
 ## Learn
 
 - [**Learn Anything** (Organize world's knowledge, explore connections and curate learning paths)](https://learn-anything.xyz)
-- [Learn **regex** the easy way](https://github.com/ziishaned/learn-regex/blob/master/README.md)
+- [**Learn regex** the easy way](https://github.com/ziishaned/learn-regex/blob/master/README.md)
 - [**TIPP10** (Free touch typing tutor)](https://www.tipp10.com)
 - [**Duolingo** (Free, fun, and effective way to learn a language)](https://www.duolingo.com)
