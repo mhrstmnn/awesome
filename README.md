@@ -18,6 +18,7 @@
 - [`lt` (Exposes your `localhost` to the world 🌍)](https://github.com/localtunnel/localtunnel)
 
 ## Tools
+- [`shfmt` (A shell parser, formatter, and interpreter)](https://github.com/mvdan/sh)
 - [`husky` (`git` hooks made easy 🐶)](https://github.com/typicode/husky)
 - [`pretty-quick` (Runs `prettier` on your changed files ⚡)](https://github.com/azz/pretty-quick)
 - [`npm-run-all` (Run multiple npm-scripts in parallel or sequential)](https://github.com/mysticatea/npm-run-all)
