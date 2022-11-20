@@ -49,7 +49,6 @@
 
 ## Websites
 
-- [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
 - [**tldr** (A reactive web client for `tldr` 📚)](https://tldr.ostera.io)
 - [**cheat.sh** (The only cheat sheet you need)](https://cheat.sh)
 - [**ExplainShell** (Match command-line arguments to their help text)](https://explainshell.com)
@@ -57,6 +56,15 @@
 - [**Crontab Guru** (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
 - [**Programming Fonts** (Test drive programming fonts online in your browser)](https://www.programmingfonts.org)
 - [**wttr.in** (The right way to check the weather ⛅)](https://wttr.in)
+- [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
+- [**DevDocs** API Documentation](https://devdocs.io)
+- [**pkgs.org** (Packages for Linux and Unix)](https://pkgs.org)
+- [**ShareDrop** (Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop)](https://www.sharedrop.io)
+- [**Wormhole** (Simple, private file sharing)](https://wormhole.app)
+- [**Excalidraw** (Virtual whiteboard for sketching hand-drawn like diagrams)](https://excalidraw.com)
+- [**Squoosh** (Make images smaller using best-in-class codecs, right in the browser)](https://squoosh.app)
+- [**PDF24 Tools** (Free and easy-to-use online PDF tools that make you more productive)](https://tools.pdf24.org)
+- [**Fedifinder** (Find Fediverse accounts of your Twitter followings)](https://fedifinder.glitch.me)
 
 ## Learn
 
