@@ -51,11 +51,11 @@
 
 - [**tldr** (A reactive web client for `tldr` 📚)](https://tldr.ostera.io)
 - [**cheat.sh** (The only cheat sheet you need)](https://cheat.sh)
+- [**wttr.in** (The right way to check the weather ⛅)](https://wttr.in)
 - [**ExplainShell** (Match command-line arguments to their help text)](https://explainshell.com)
 - [**ShellCheck** (A static analysis tool for shell scripts)](https://www.shellcheck.net)
 - [**Crontab Guru** (A quick and simple editor for cron schedule expressions)](https://crontab.guru)
 - [**Programming Fonts** (Test drive programming fonts online in your browser)](https://www.programmingfonts.org)
-- [**wttr.in** (The right way to check the weather ⛅)](https://wttr.in)
 - [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
 - [**DevDocs** API Documentation](https://devdocs.io)
 - [**pkgs.org** (Packages for Linux and Unix)](https://pkgs.org)
