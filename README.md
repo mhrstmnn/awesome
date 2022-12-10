@@ -57,6 +57,7 @@
 
 ## Websites
 
+- [**PrivacyTests.org** (Open-source tests of web browser privacy)](https://privacytests.org)
 - [**Programming Fonts** (Test drive programming fonts online in your browser)](https://www.programmingfonts.org)
 - [**Hoppscotch** (Open source API development ecosystem 👽)](https://hoppscotch.io)
 - [**DevDocs** API Documentation (Fast and offline documentation browser for developers)](https://devdocs.io)
